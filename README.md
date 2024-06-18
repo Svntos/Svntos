@@ -2,7 +2,7 @@
 
 I am a brazilian student pursuing a bachelor's degree in statistics and a professional with experience in data analysis.
 
-[![Linkedin Badge](https://img.shields.io/badge/-FelipeSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-santos-351864277/)](https://www.linkedin.com/in/felipe-santos-351864277/)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe&nbsp;Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-santos-351864277/)](https://www.linkedin.com/in/felipe-santos-351864277/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.molsantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.molsantos@gmail.com)](mailto:felipe.molsantos@gmail.com)
 
 ## Education
